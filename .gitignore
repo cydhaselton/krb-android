@@ -3,4 +3,4 @@ syntax: glob
 [Bb]inaries/
 
 #Make files
-Makefike*
+*Makefile*
