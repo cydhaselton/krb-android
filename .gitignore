@@ -13,7 +13,8 @@ syntax: glob
 *.userosscache
 *.sln.docstates
 *.patch
-*Makefile*
+Makefile
+Makefile.in
 
 # Build results
 [Dd]ebug/
